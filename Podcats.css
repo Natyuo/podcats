@@ -19,7 +19,8 @@
        }
 
        body#contacto {
-        background-color: #F0F0F0;
+        background-image: url(img/logopodcastfblanco.png);
+        background-repeat: inherit;
     }
 
        .podcasts {
