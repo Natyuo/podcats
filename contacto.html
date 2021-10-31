@@ -9,17 +9,29 @@
 </head>
 <body id="contacto">
     <form action="enviar.js">
-        <h2>CONTACTO</h2>
+        <h2>CHARLEMOS</h2>
         <input type="text" name="nombre" placeholder="Hola! Cómo te llamás?">
-        
+        <input type="email" name="Correo" placeholder="Cuál es tu e-mail?">
+        <input type="text" name="Teléfono" placeholder="Nos das tu Whatsapp?">
+        <label> Por qué nos querés contactar?
+            <select>
+            <option>Quiero que mi Podcast esté acá</option>
+            <option>Quiero invertir en ustedes</option>
+            <option>Quiero que seamos amigos</option>
+            <option>Tengo un refugio para gatos y quiero recibir donaciones</option>
+            <option>Quiero trabajar con ustedes</option>
+            </select></label>
+        <textarea name="mensaje" placeholder="Contános más sobre vos :)"></textarea>
         <label>
-            Nombre
-            <input type="text" required>
-            </label>
-
-        <input type="text" name="Correo" placeholder="Cuál es tu e-mail?">
-        <input type="text" name="Teléfono" placeholder="Teléfono">
-        <textarea name="mensaje" placeholder="Escriba aquí su mensaje"></textarea>
+            Con qué Podcat te identificás mejor?
+            <select>
+            <option>Salem</option>
+            <option>Lola</option>
+            <option>Neko</option>
+            <option>Gala</option>
+            <option>Raúl</option>
+            </select></label>
+        
         <input type="button" value="ENVIAR" id="boton">
     </form>
     
