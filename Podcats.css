@@ -20,10 +20,44 @@
 
        body#contacto {
         background-image: url(img/logopodcastfblanco.png);
-        background-size: 10%;
+        background-size: 34%;
         background-repeat: inherit;
+        margin: 0;
     }
+form {
+  width: 450px;
+  margin: auto;
+  background: #49b47e;
+  padding: 10px 20px;
+  box-sizing: border-box;
+  margin-top: 20px;
+  border-radius: 15px;
+}
 
+h2 {
+  color: #3a3d44;
+  text-align: center;
+  margin: 0;
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+input, textarea {
+  padding: 7px;
+  margin-bottom: 20px;
+  width: 100%;
+  box-sizing: border-box;
+  font-size: 17px;
+  border: none;
+}
+textarea {
+  min-height: 10px;
+  max-height: 200px;
+  max-width: 100%;
+}
+#boton {
+  background: #3a3d44;
+}
        .podcasts {
         display: flex;
         margin-left:auto;
