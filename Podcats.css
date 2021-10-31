@@ -142,11 +142,22 @@ p .gato-texto {
   width: 15%;
   margin: 30px;
 } 
+.images .col-md-3{
+	padding-top: 20px;
 
+}
+.social{
+	text-align: center;
+}
+.social img{
+	width: 30%;
+	text-align: center;
+}
 footer{
 	background: #3a3d44;
 	height: 10vh;
 	padding-top: 30px;
+  
 }
 footer h1{
 	text-align: center;
