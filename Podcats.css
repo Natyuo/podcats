@@ -142,6 +142,17 @@ p .gato-texto {
   width: 15%;
   margin: 30px;
 } 
+
+footer{
+	background: #3a3d44;
+	height: 50vh;
+	padding-top: 30px;
+}
+footer h1{
+	text-align: center;
+	font-weight: 100;
+}
+
     body {
     background-color: #3a3d44;
     cursor: url(img/cursorneko.png), auto;
