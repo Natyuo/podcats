@@ -43,7 +43,7 @@ h2 {
   margin-bottom: 20px;
 }
 
-input, textarea, label, select {
+input, textarea, label, select, button {
   padding: 7px;
   margin-bottom: 20px;
   width: 100%;
@@ -56,12 +56,12 @@ textarea {
   max-height: 200px;
   max-width: 100%;
 }
-#boton {
+#button {
   background: #3a3d44;
   color: #FFFF;
   padding: 20px;
 }
-#boton:hover {
+#button:hover {
   cursor: url(img/patita2.png), auto;
 }
 
