@@ -20,6 +20,7 @@
 
        body#contacto {
         background-image: url(img/logopodcastfblanco.png);
+        background-size: 10%;
         background-repeat: inherit;
     }
 
