@@ -58,7 +58,19 @@ textarea {
 }
 #boton {
   background: #3a3d44;
+  color: #FFFF;
+  padding: 20px;
 }
+#boton:hover {
+  cursor: url(img/patita2.png), auto;
+}
+
+@media (max-width: 480px){
+  form {
+    width: 100%;
+  }
+}
+
        .podcasts {
         display: flex;
         margin-left:auto;
