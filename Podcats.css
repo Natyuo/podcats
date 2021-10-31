@@ -18,6 +18,10 @@
         margin-top: 0;
        }
 
+       body#contacto {
+        background-color: #F0F0F0;
+    }
+
        .podcasts {
         display: flex;
         margin-left:auto;
