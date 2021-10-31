@@ -145,12 +145,12 @@ p .gato-texto {
 
 footer{
 	background: #3a3d44;
-	height: 50vh;
+	height: 10vh;
 	padding-top: 30px;
 }
 footer h1{
 	text-align: center;
-	font-weight: 100;
+	font-weight: 50;
 }
 
     body {
