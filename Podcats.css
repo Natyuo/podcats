@@ -25,6 +25,15 @@
         background-repeat: inherit;
         margin: 0;
     }
+
+    body#registrate {
+      background-image: url(img/logopodcastfblanco.png);
+      
+      background-size: 34%;
+      background-repeat: inherit;
+      margin: 0;
+  }
+
 form {
   width: 450px;
   margin: auto;
